@@ -12,4 +12,4 @@ function largestNumber(numbers){
         console.log(element);
     }
 }
-var largestNumber([10, 20, 30]);
+var largestNumber = ([10, 20, 30]);
